@@ -1,7 +1,7 @@
 {
-  "name": "alurageek-api",
+  "name": "aluraflix-api",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Videos 4 aluraflix",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
@@ -17,7 +17,7 @@
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "Luis Tovar, ltovaralc@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SofiDevO/alurageek-API/issues"
